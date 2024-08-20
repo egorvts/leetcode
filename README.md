@@ -1,6 +1,6 @@
 # AlgoMap Solutions
 ### Arrays & Strings
-- [x] Easy
+- [x] Easy (except 121)
 - [ ] Medium
 ### Hashmaps & Sets
 - [ ] Easy
